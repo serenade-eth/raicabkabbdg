@@ -1,3 +1,3 @@
-# phpnative-aplikasi-laundry
+# phpnative-aplikasi-pendaftaran pramuka
 
-Silahkan buat database dengan nama ujikom_laundry dan import db nya
+Silahkan buat database dan import db nya
